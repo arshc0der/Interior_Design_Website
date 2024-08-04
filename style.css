@@ -1,0 +1,391 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main-ui{
+    padding: 10px;
+}
+/*logo start here*/
+#logo-cpy{
+    padding: 10px;
+}
+#logo-a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+    word-spacing: 6px;
+    letter-spacing: 4px;
+}
+#logo-a:hover{
+    background-color: black;
+    color: white;
+}
+/*logo ends here*/
+#navbar{
+    padding: 10px;
+}
+#nav-ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-li{
+    list-style: none;
+    padding: 10px;
+}
+.nav-a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+.nav-a:hover{
+    color: white;
+    background-color: black;
+}
+/*right side css start here*/
+#rth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rth-li{
+    list-style: none;
+    padding: 10px;
+}
+.rth-a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+.rth-a:hover{
+    background-color: black;
+    color: white;
+}
+/*rigth sid4e css ends here*/
+#main-in{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    height: 80vh;
+    background-image: linear-gradient(to right,#cae1ea,#f9d9be);
+    border-radius: 20px;
+}
+.lft{
+    width: 50%;
+    padding: 100px;
+}
+#bg-main{
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mh1{
+    font-size: 70px;
+}
+#gret{
+    font-weight: bold;
+    margin: 10px;
+}
+#ab-gre{
+    font-weight: bold;
+    margin: 10px;
+}
+#search{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Send{
+    height: 50px;
+    padding: 10px;
+    width: 80px;
+    border-radius: 18px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+#in-em{
+    height: 60px;
+    border: none;
+    width: 78%;
+}
+#in-em::placeholder{
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+}/*mid*/
+#mid1{
+    margin: 0;
+    padding: 10px;
+}
+#step1{
+    text-align: center;
+    margin: 10px;
+}
+#st-i{
+    color: grey;
+}
+#st-head{
+    font-size: 40px;
+    font-weight: bold;
+}
+#step3{
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align:center;
+}
+.steps{
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+}
+.img{
+    height: 98px;
+}
+.head-st{
+    font-style: 18px;
+    font-weight: bold;
+    margin: 10px;
+}
+.head-body{
+    padding: 10px;
+}
+/*mid*/
+/*recent project start here*/
+#recent{
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.pro1{
+    padding: 10px;
+    border-radius: 10px;
+    width: 24%;
+    margin: 10px;
+    box-shadow: 1px 1px 4px grey ;
+}
+.pro1:hover{
+    border: 2px solid grey;
+}
+.bg-rec{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+#rate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.head-recent{
+    font-size: 20px;
+    color: black;
+}
+.rate-icon{
+    height: 10px;
+}
+.r-rate{
+    padding: 10px;
+}
+#price{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.price-view{
+    margin: 20px;
+}
+.ex{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.ex:hover{
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+}
+.dec{
+    padding: 10px;
+}
+/*recent project ends here*/
+#que-betet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+.insure{
+    width: 44%;
+    padding: 30px;
+}
+.pt-img{
+    height: 20px;
+    margin-right: 10px;
+}
+#in1{
+    background-image: url('images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    border-radius: 20px;
+}
+/*location start here*/
+#descr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#desbr{
+    padding: 20px;
+}
+.de-al{
+    width: 48%;
+    height: 300px;
+}
+#dec-head{
+    font-size: 20px;
+    font-weight: bold;
+}
+#dec-body{
+    font-size: 18px;
+    margin: 20px;
+    color: grey;
+}
+#a-dec{
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+#a-dec:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+#view-dec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    margin-top: 80px;
+}
+.viewcls{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    margin: 10px;
+}
+#imggh-bg{
+    background-image: url('images/bg3.jpg');
+    border-radius: 10px;
+}
+/*location ends gere*/
+/*news latter*/
+#bgmain{
+    background-image: url('images/bg.4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*news letter*/
+/*footer start here*/
+#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(to right,#cae1ea,#f9d9be);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.fo-part{
+    height: 200px;
+}
+#footer1{
+    width: 28%;
+    padding: 20px;
+}
+#fo-logo{
+    font-size: 40px;
+    font-weight: bolder;
+}
+#fo-dec{
+    color: grey;
+    font-size: 20px;
+}
+#footer2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.footerp{
+    padding: 10px;
+    text-align: center;
+}
+.fhead{
+    font-weight: bolder;
+}
+.fbody{
+    line-height: 40px;
+}
+#ffoot{
+    text-align: center;
+    color: grey;
+}
+/*footer ends here*/
+#infra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(to right,#f9d9be,#cae1ea);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+#inflft{
+    width: 44%;
+}
+#inbg{
+    height: 500px;
+}
+
+#mega{
+    font-size: 70px;
+}
+#ainmega{
+    font-weight: bold;
+    margin: 10px;
+}
+input{
+    outline: none;
+    padding-left: 20px;
+}
