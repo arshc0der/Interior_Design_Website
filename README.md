@@ -29,4 +29,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Feel free to let me know if you need any further adjustments!
+Feel free to use it and make changes!
