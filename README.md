@@ -3,22 +3,22 @@
 
 # 🌟 **Interior Design Website**
 
-![Project Preview](https://raw.githubusercontent.com/arshc0de/Interior_Design_Website/main/preview/infra_crop.png)
+![Project Preview](https://raw.githubusercontent.com/arshc0der/Interior_Design_Website/main/preview/infra_crop.png)
 
 <p align="left">
   <img src="https://img.shields.io/badge/status-Beta-yellow.svg" alt="Status Badge"/> 
-  <img src="https://img.shields.io/github/license/arshc0de/Interior_Design_Website?color=green" alt="License Badge"/> 
+  <img src="https://img.shields.io/github/license/arshc0der/Interior_Design_Website?color=green" alt="License Badge"/> 
   <img src="https://img.shields.io/badge/platform-Windows-blue.svg" alt="Platform Badge"/> 
   <img src="https://img.shields.io/badge/language-HTML5-%23E34F26.svg" alt="Language Badge"/> 
   <img src="https://img.shields.io/badge/framework-CSS3-%231572B6.svg" alt="CSS Badge"/> 
   <img src="https://img.shields.io/badge/interactive-yes-brightgreen.svg" alt="Interactivity Badge"/> 
   <img src="https://img.shields.io/badge/responsive-yes-green.svg" alt="Responsive Badge"/> 
   <img src="https://img.shields.io/badge/open--source-yes-brightgreen.svg" alt="Open Source Badge"/> 
-  <img src="https://img.shields.io/github/stars/arshc0de/Interior_Design_Website?style=social" alt="Stars Badge"/> 
-  <img src="https://img.shields.io/github/forks/arshc0de/Interior_Design_Website?style=social" alt="Forks Badge"/> 
+  <img src="https://img.shields.io/github/stars/arshc0der/Interior_Design_Website?style=social" alt="Stars Badge"/> 
+  <img src="https://img.shields.io/github/forks/arshc0der/Interior_Design_Website?style=social" alt="Forks Badge"/> 
 </p>
 
-[![Last Commit](https://img.shields.io/github/last-commit/arshc0de/Interior_Design_Website)](https://github.com/arshc0de/Interior_Design_Website/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/arshc0der/Interior_Design_Website)](https://github.com/arshc0der/Interior_Design_Website/commits/main)
 
 ## 🏠 **About**
 
@@ -42,7 +42,7 @@ This project is a basic **Interior Design Website** built using **HTML**, **CSS*
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arshc0de/Interior_Design_Website.git
+   git clone https://github.com/arshc0der/Interior_Design_Website.git
    ```
 
 2. Navigate to the project directory:
@@ -57,7 +57,7 @@ This project is a basic **Interior Design Website** built using **HTML**, **CSS*
 
 ## 🖼️ **Preview**
 
-To view the website preview, click [here](https://raw.githubusercontent.com/arshc0de/Interior_Design_Website/main/preview/infra.png). 👀
+To view the website preview, click [here](https://raw.githubusercontent.com/arshc0der/Interior_Design_Website/main/preview/infra.png). 👀
 
 ## 🛋️ **Usage**
 
